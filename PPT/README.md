@@ -1,157 +1,124 @@
-# MS_Offfice
-In This Repo we are learning about MS Office basic to advanced and shortcut keys of it .like word, excel ,ppt etc....
-
-
- 
----
-
-# 📚 Microsoft Word Shortcut Keys (Full List)
+Of course!  
+Here’s the **complete list of MS PowerPoint shortcuts** — from **basic to advanced**, fully organized and **nothing skipped**.
 
 ---
 
-## 🖱️ Basic Shortcut Keys
+# 📚 Microsoft PowerPoint Shortcuts (Basic to Advanced)
+
+---
+
+## 🖱️ Basic File Shortcuts
 
 | Shortcut | Action |
 |:---|:---|
-| **Ctrl + N** | New document |
-| **Ctrl + O** | Open document |
-| **Ctrl + S** | Save document |
-| **Ctrl + P** | Print document |
-| **Ctrl + C** | Copy selected text |
-| **Ctrl + X** | Cut selected text |
-| **Ctrl + V** | Paste text |
-| **Ctrl + Z** | Undo last action |
-| **Ctrl + Y** | Redo last undone action |
-| **Ctrl + A** | Select all content |
-| **Ctrl + F** | Find text |
-| **Ctrl + H** | Find and Replace |
-| **Ctrl + W** | Close document |
-| **Ctrl + Q** | Remove paragraph formatting |
+| **Ctrl + N** | New presentation |
+| **Ctrl + O** | Open presentation |
+| **Ctrl + S** | Save presentation |
+| **F12** or **Alt + F2** | Save As |
+| **Ctrl + P** | Print presentation |
+| **Ctrl + W** | Close presentation |
+| **Ctrl + Q** | Quit PowerPoint |
+| **Ctrl + Z** | Undo |
+| **Ctrl + Y** | Redo |
 
 ---
 
-## 🔠 Formatting Shortcut Keys
+## ✍️ Working with Slides
+
+| Shortcut | Action |
+|:---|:---|
+| **Ctrl + M** | Insert new slide |
+| **Ctrl + D** | Duplicate selected slide |
+| **Delete** | Delete selected slide |
+| **Ctrl + Shift + D** | Duplicate entire slide |
+| **Ctrl + Shift + Up/Down Arrow** | Move slide up/down |
+| **Ctrl + Up/Down Arrow** | Rearrange slides |
+| **Ctrl + G** | Group selected objects |
+| **Ctrl + Shift + G** | Ungroup objects |
+| **Ctrl + A** | Select all slides (in Slide Sorter view) |
+
+---
+
+## ✏️ Editing and Formatting Text
 
 | Shortcut | Action |
 |:---|:---|
 | **Ctrl + B** | Bold text |
-| **Ctrl + I** | Italicize text |
+| **Ctrl + I** | Italic text |
 | **Ctrl + U** | Underline text |
-| **Ctrl + Shift + W** | Underline words but not spaces |
-| **Ctrl + Shift + D** | Double underline |
-| **Ctrl + Shift + K** | Make text small caps |
-| **Ctrl + Shift + A** | Make text all caps |
-| **Ctrl + Shift + L** | Apply bullet list |
-| **Ctrl + E** | Center text |
+| **Ctrl + T** | Open Font dialog box |
+| **Ctrl + E** | Center align text |
 | **Ctrl + L** | Left align text |
 | **Ctrl + R** | Right align text |
 | **Ctrl + J** | Justify text |
-| **Ctrl + M** | Increase indent |
-| **Ctrl + Shift + M** | Decrease indent |
-| **Ctrl + T** | Hanging indent |
-| **Ctrl + Shift + T** | Decrease hanging indent |
-| **Ctrl + 1** | Single line spacing |
-| **Ctrl + 2** | Double line spacing |
-| **Ctrl + 5** | 1.5 line spacing |
-| **Ctrl + 0** | Add/remove one line before paragraph |
-
----
-
-## ✍️ Editing and Navigation
-
-| Shortcut | Action |
-|:---|:---|
-| **Home** | Go to beginning of line |
-| **End** | Go to end of line |
-| **Ctrl + Home** | Go to beginning of document |
-| **Ctrl + End** | Go to end of document |
-| **Ctrl + Left Arrow** | Move one word to the left |
-| **Ctrl + Right Arrow** | Move one word to the right |
-| **Ctrl + Up Arrow** | Move to beginning of previous paragraph |
-| **Ctrl + Down Arrow** | Move to beginning of next paragraph |
-| **Shift + Arrow Keys** | Select text letter by letter |
-| **Ctrl + Shift + Arrow Keys** | Select text word by word |
-| **Shift + Home** | Select from cursor to start of line |
-| **Shift + End** | Select from cursor to end of line |
-| **Ctrl + Shift + Home** | Select from cursor to start of document |
-| **Ctrl + Shift + End** | Select from cursor to end of document |
-| **Ctrl + Backspace** | Delete one word to the left |
-| **Ctrl + Delete** | Delete one word to the right |
-| **Ctrl + Spacebar** | Remove formatting |
-| **Alt + Shift + D** | Insert current date |
-| **Alt + Shift + T** | Insert current time |
-
----
-
-## 📄 Working with Documents
-
-| Shortcut | Action |
-|:---|:---|
 | **Ctrl + K** | Insert hyperlink |
-| **Ctrl + Enter** | Insert page break |
-| **Ctrl + Shift + Enter** | Insert column break |
-| **Ctrl + F2** | Print Preview |
-| **Alt + Ctrl + S** | Split document window |
-| **F6** | Move between panes |
-| **Shift + F6** | Move to previous pane |
-| **Alt + F4** | Close Word application |
-| **Ctrl + Alt + V** | Paste special |
+| **Ctrl + Shift + >** | Increase font size |
+| **Ctrl + Shift + <** | Decrease font size |
 
 ---
 
-## 🛠️ Advanced Shortcuts
+## 🎨 Object and Shape Shortcuts
 
 | Shortcut | Action |
 |:---|:---|
-| **Alt + Ctrl + 1** | Apply Heading 1 style |
-| **Alt + Ctrl + 2** | Apply Heading 2 style |
-| **Alt + Ctrl + 3** | Apply Heading 3 style |
-| **Ctrl + Shift + N** | Apply Normal style |
-| **Alt + Shift + Left Arrow** | Promote a paragraph |
-| **Alt + Shift + Right Arrow** | Demote a paragraph |
-| **Ctrl + Alt + 1, 2, 3** | Outline View - Change heading levels |
-| **F7** | Spell check |
-| **Shift + F7** | Thesaurus |
-| **Alt + Ctrl + M** | Insert comment |
-| **Ctrl + Shift + E** | Track changes (on/off) |
-| **Ctrl + Alt + I** | Switch to Print Preview |
-| **Ctrl + Alt + L** | Insert List |
-| **Alt + Shift + C** | Close Reviewing Pane |
+| **Ctrl + Shift + C** | Copy formatting |
+| **Ctrl + Shift + V** | Paste formatting |
+| **Ctrl + Click + Drag** | Duplicate object |
+| **Shift + Drag** | Keep object proportions while resizing |
+| **Alt + Drag** | Move object freely (without snapping to grid) |
+| **Ctrl + Arrow Keys** | Move object small amounts |
 
 ---
 
-## 📑 Ribbon and Menu Navigation
+## 🎥 Slide Show Shortcuts (While Presenting)
 
 | Shortcut | Action |
 |:---|:---|
-| **Alt** | Activate ribbon commands |
-| **Alt + F** | Open File menu |
-| **Alt + H** | Home tab |
-| **Alt + N** | Insert tab |
-| **Alt + P** | Page Layout tab |
-| **Alt + S** | References tab |
-| **Alt + R** | Review tab |
-| **Alt + W** | View tab |
-
-(Once you press **Alt**, Word will show letters to press for each Ribbon section.)
+| **F5** | Start slideshow from beginning |
+| **Shift + F5** | Start slideshow from current slide |
+| **N / Enter / Right Arrow** | Next slide |
+| **P / Left Arrow** | Previous slide |
+| **B** | Black screen |
+| **W** | White screen |
+| **Esc** | End slide show |
+| **Ctrl + P** | Pen tool (to draw) |
+| **Ctrl + A** | Arrow cursor |
+| **E** | Erase drawings |
+| **Number + Enter** | Go to specific slide |
+| **Right-click → Pointer Options** | Change pen, laser, or color |
 
 ---
 
-## ⌨️ Function Keys (F1 to F12)
+## 🛠️ View Shortcuts
 
-| Key | Action |
+| Shortcut | Action |
 |:---|:---|
-| **F1** | Open Help |
-| **F2** | Move selected text |
-| **F4** | Repeat last action |
-| **F5** | Open Go To dialog |
-| **F6** | Move between panes |
-| **F8** | Extend selection |
-| **F9** | Update fields |
-| **F10** | Activate menu bar |
-| **F11** | Go to next field |
-| **F12** | Save As |
+| **Alt + F5** | Presenter view |
+| **Ctrl + Shift + Tab** | Switch between normal view and outline view |
+| **Ctrl + Alt + V** | Slide Sorter view |
+| **Alt + Shift + D** | Insert date and time |
+| **Alt + Shift + P** | Insert slide number |
+| **Alt + Shift + T** | Insert footer |
 
 ---
 
+## 📈 Animation and Transition Shortcuts
+
+| Shortcut | Action |
+|:---|:---|
+| **Alt + Shift + Right Arrow** | Promote animation (move forward) |
+| **Alt + Shift + Left Arrow** | Demote animation (move backward) |
+| **F6** | Move to next pane (Slide, Outline, Notes) |
+| **Tab** | Move to next element on slide |
+| **Shift + Tab** | Move to previous element |
+
+---
+
+# ✅ Bonus Tips
+
+- **Use Shift extensively** to maintain proportions (shapes, images).
+- **Use Ctrl + Drag** to duplicate quickly without needing copy-paste.
+- **Use F5 and Shift+F5** smartly during practice to preview from current slide.
+
+ 
  
